@@ -1,2 +1,3 @@
 # C-plus-plus
-This repository contains C++ Programs.
+This repository contains C-plus-plus Programs.
+
